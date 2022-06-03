@@ -1,2 +1,2 @@
 # portfolio-website-template
-Learning and creating Angular portfolio website along the way
+creating Angular portfolio website while learningalong the way
